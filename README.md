@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on web develop
+- 🌱 I’m currently learning react
+- 👯 I’m looking to collaborate on ai
+- 🤔 I’m looking for help with ai
